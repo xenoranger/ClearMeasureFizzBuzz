@@ -34,7 +34,6 @@ jobs:
       run: dotnet test --no-restore --verbosity normal
 
     - name: Publish Artifact
-      working-directory: ./Source/ClearMeasureFizzBuzz
       if: always()
       uses: actions/upload-artifact@v2
       with:
