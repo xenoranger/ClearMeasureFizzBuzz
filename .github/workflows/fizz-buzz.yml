@@ -26,7 +26,7 @@ jobs:
       working-directory: ./Source/ClearMeasureFizzBuzz
 
     - name: Build
-      run: dotnet build --configuration Release --no-restore
+      run: dotnet build ClearMeasureFizzBuzz.sln --configuration Release --restore
 
     - name: Test
       run: dotnet test --no-restore --verbosity normal
