@@ -12,6 +12,9 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
       
+    - name: Create Build Folder
+      run: mkdir -p /Builds
+      
     - name: Setup .NET Core SDK
       uses: actions/setup-dotnet@v4.0.0
       with:
@@ -27,7 +30,7 @@ jobs:
 
     - name: Build
       working-directory: ./Source/ClearMeasureFizzBuzz
-      run: dotnet build ClearMeasureFizzBuzz.sln --configuration Release --restore
+      run: dotnet build ClearMeasureFizzBuzz.sln --configuration Release --restore --output /Builds 
 
     - name: Test
       working-directory: ./Source/ClearMeasureFizzBuzz
@@ -38,6 +41,6 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: test-results
-        path: TestResults
+        path: /Builds
 
               
