@@ -1,0 +1,11 @@
+C:\Users\xenor\source\repos\ClearMeasureFizzBuzz\Source\FizzBuzzCore\bin\Debug\net8.0\FizzBuzzCore.deps.json
+C:\Users\xenor\source\repos\ClearMeasureFizzBuzz\Source\FizzBuzzCore\bin\Debug\net8.0\FizzBuzzCore.dll
+C:\Users\xenor\source\repos\ClearMeasureFizzBuzz\Source\FizzBuzzCore\bin\Debug\net8.0\FizzBuzzCore.pdb
+C:\Users\xenor\source\repos\ClearMeasureFizzBuzz\Source\FizzBuzzCore\obj\Debug\net8.0\FizzBuzzCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xenor\source\repos\ClearMeasureFizzBuzz\Source\FizzBuzzCore\obj\Debug\net8.0\FizzBuzzCore.AssemblyInfoInputs.cache
+C:\Users\xenor\source\repos\ClearMeasureFizzBuzz\Source\FizzBuzzCore\obj\Debug\net8.0\FizzBuzzCore.AssemblyInfo.cs
+C:\Users\xenor\source\repos\ClearMeasureFizzBuzz\Source\FizzBuzzCore\obj\Debug\net8.0\FizzBuzzCore.csproj.CoreCompileInputs.cache
+C:\Users\xenor\source\repos\ClearMeasureFizzBuzz\Source\FizzBuzzCore\obj\Debug\net8.0\FizzBuzzCore.dll
+C:\Users\xenor\source\repos\ClearMeasureFizzBuzz\Source\FizzBuzzCore\obj\Debug\net8.0\refint\FizzBuzzCore.dll
+C:\Users\xenor\source\repos\ClearMeasureFizzBuzz\Source\FizzBuzzCore\obj\Debug\net8.0\FizzBuzzCore.pdb
+C:\Users\xenor\source\repos\ClearMeasureFizzBuzz\Source\FizzBuzzCore\obj\Debug\net8.0\ref\FizzBuzzCore.dll
