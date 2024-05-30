@@ -17,7 +17,7 @@ namespace FizzBuzzCore.Core
         /// <param name="input">A List of Numbers and Responses. <br />Default: null which acts as 3 = Fizz and 5 = Buzz </param>
         public FizzBuzz(List<FizzConfig> input = null)
         {
-            if (input == null)
+            if (input == null || input.Count < 1)
             {
                 data = new List<FizzConfig>();
                 data.Add(new FizzConfig(3, "Fizz"));
@@ -34,10 +34,10 @@ namespace FizzBuzzCore.Core
         /// </summary>
         /// <param name="number">The number to calculate</param>
         /// <returns></returns>
-        public string Calc(int number)
+        public string Calc(int number, bool formatOutput = false)
         {
             string output = string.Empty;
-            var matches = data.FindAll(m => number % m.Number == 0);
+            var matches = data.FindAll(m => number % m.Number == 0).OrderBy(o => o.Number);
 
             foreach (var match in matches)
             {
@@ -53,6 +53,10 @@ namespace FizzBuzzCore.Core
                 return output;
             }
 
+            if (formatOutput)
+            {
+                return number.ToString("N0");
+            }
             return number.ToString();
         }
 

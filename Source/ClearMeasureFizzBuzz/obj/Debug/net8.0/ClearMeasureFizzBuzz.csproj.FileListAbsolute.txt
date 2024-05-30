@@ -16,3 +16,4 @@ C:\Users\xenor\source\repos\ClearMeasureFizzBuzz\Source\ClearMeasureFizzBuzz\obj
 C:\Users\xenor\source\repos\ClearMeasureFizzBuzz\Source\ClearMeasureFizzBuzz\obj\Debug\net8.0\ClearMeasureFizzBuzz.pdb
 C:\Users\xenor\source\repos\ClearMeasureFizzBuzz\Source\ClearMeasureFizzBuzz\obj\Debug\net8.0\ClearMeasureFizzBuzz.genruntimeconfig.cache
 C:\Users\xenor\source\repos\ClearMeasureFizzBuzz\Source\ClearMeasureFizzBuzz\obj\Debug\net8.0\ref\ClearMeasureFizzBuzz.dll
+C:\Users\xenor\source\repos\ClearMeasureFizzBuzz\Source\ClearMeasureFizzBuzz\obj\Debug\net8.0\ClearMeasureFizzBuzz.sourcelink.json

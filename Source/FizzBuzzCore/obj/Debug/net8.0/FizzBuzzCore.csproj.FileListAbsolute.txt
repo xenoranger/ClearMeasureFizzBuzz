@@ -9,3 +9,4 @@ C:\Users\xenor\source\repos\ClearMeasureFizzBuzz\Source\FizzBuzzCore\obj\Debug\n
 C:\Users\xenor\source\repos\ClearMeasureFizzBuzz\Source\FizzBuzzCore\obj\Debug\net8.0\refint\FizzBuzzCore.dll
 C:\Users\xenor\source\repos\ClearMeasureFizzBuzz\Source\FizzBuzzCore\obj\Debug\net8.0\FizzBuzzCore.pdb
 C:\Users\xenor\source\repos\ClearMeasureFizzBuzz\Source\FizzBuzzCore\obj\Debug\net8.0\ref\FizzBuzzCore.dll
+C:\Users\xenor\source\repos\ClearMeasureFizzBuzz\Source\FizzBuzzCore\obj\Debug\net8.0\FizzBuzzCore.sourcelink.json
