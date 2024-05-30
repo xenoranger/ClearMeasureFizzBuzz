@@ -30,9 +30,11 @@ jobs:
       run: dotnet build ClearMeasureFizzBuzz.sln --configuration Release --restore
 
     - name: Test
+      working-directory: ./Source/ClearMeasureFizzBuzz
       run: dotnet test --no-restore --verbosity normal
 
     - name: Publish Artifact
+      working-directory: ./Source/ClearMeasureFizzBuzz
       if: always()
       uses: actions/upload-artifact@v2
       with:
