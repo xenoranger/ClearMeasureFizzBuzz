@@ -26,6 +26,7 @@ jobs:
       working-directory: ./Source/ClearMeasureFizzBuzz
 
     - name: Build
+      working-directory: ./Source/ClearMeasureFizzBuzz
       run: dotnet build ClearMeasureFizzBuzz.sln --configuration Release --restore
 
     - name: Test
