@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClearMeasureFizzBuzz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55f1da23f5b2ce1cac092dff741265a77cb6fd38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7a8b521b6f9b4c8653a32c91fcb0d00d93c0c82")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClearMeasureFizzBuzz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClearMeasureFizzBuzz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
